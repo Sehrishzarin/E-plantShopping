@@ -173,12 +173,12 @@
   .cart-item-delete:hover {
     background-color: #cc0000;
   }
-  /* .cart-item-button-dec{
-    background-color: red;
+  .cart-item-button-dec{
+    background-color: rgba(224, 16, 16, 0.753);
   }
   .cart-item-button-inc{
-    background-color: green;
-  } */
+    background-color: rgba(23, 182, 23, 0.719);
+  }
   @media (max-width: 768px) {
     .cart-item {
       flex-direction: column; /* Change flex direction to stack items vertically */
